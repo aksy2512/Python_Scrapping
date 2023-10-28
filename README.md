@@ -1,9 +1,12 @@
 # Python_Scrapping
 
-1)Used Beautiful Soup to scrap the job data from indeed.com.
+1) Used Beautiful Soup to scrap the job data from indeed.com.
+
 2) Stored the data in a mongodb database
-3)Created django admin portal to display the jobs with deletion and addition feature
-4)Computed the average salary in my city
+   
+3) Created django admin portal to display the jobs with deletion and addition feature
+
+4) Computed the average salary in my city
 
 # MongoDb database
 ![image](https://github.com/aksy2512/Python_Scrapping/assets/79045568/349ab896-79b6-429e-a57e-f0f075577a44)
